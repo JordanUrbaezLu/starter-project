@@ -1,3 +1,3 @@
 # starter-project
 
-Owners: Jordan Urbaez Lu
+Owners: Jordan Urbaez Lu and AJ Urbaez
